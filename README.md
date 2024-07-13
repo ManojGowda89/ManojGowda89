@@ -1,3 +1,5 @@
+## ![Profile Photo](https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184)
+
 ## Hi there 👋
 
 I'm **Manoj Gowda B R**, a passionate Full Stack Developer specializing in the **MERN stack**. I love building dynamic web applications and exploring new technologies. 
@@ -81,9 +83,5 @@ AMC Engineering College, Bangalore, 2024
 - **Frameworks:** React.js, Node.js
 - **Libraries:** Express.js, Mongoose
 - **Tools:** GitHub, Firebase, Render, NPM
-
-![Profile Photo](your-profile-photo-url)
-
----
 
 Feel free to explore my repositories and contribute if you find something interesting!
