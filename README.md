@@ -34,6 +34,8 @@ Passionate about problem-solving, I continuously seek to expand my knowledge and
 ### 👨‍💻 Experience
 #### **Full Stack Developer (MERN Stack)**
 **Transfi** - Present  
+- Worked on various projects including the development of a VPN detector, ensuring secure and reliable network connections for company operations.
+- Led the product development of multiple web applications, enhancing functionality and user experience.
 
 #### **Full Stack Developer (MERN Stack)**
 **CompSoft Technologies - Intern**  
@@ -54,18 +56,27 @@ April 2023 - July 2023, Bangalore
 #### **Car Dealership Website**
 **Technologies:** React.js, Node.js, Express, Mongoose, Context API
 - Developed a full-stack application with Node serving a REST API and React as the frontend.
+- Implemented features for listing, searching, and filtering cars.
 
 #### **Weather App**
 **Technologies:** Open Weather API, React.js
 - Created a web application displaying comprehensive weather parameters.
+- Implemented real-time weather updates and location-based data fetching.
 
 #### **URL Shortener**
 **Technologies:** Node.js, Express, MongoDB, Pug.js
 - Built a URL shortener with custom aliasing and analytics.
+- Included features for tracking URL usage statistics.
+
+#### **VPN Detector**
+**Technologies:** Python, Flask, MongoDB
+- Developed a VPN detection tool to ensure secure and compliant network access.
+- Implemented IP tracking and VPN usage analytics.
 
 #### **Online Doctor Appointment (Skylabs)**
 **Technologies:** HTML, CSS, JavaScript, PHP
 - Developed an application for booking doctors and medicines online.
+- Integrated payment gateways and real-time appointment scheduling.
 
 ---
 
