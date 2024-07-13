@@ -1,4 +1,8 @@
-## ![Profile Photo](https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184)
+## [GitHub Repositories](https://github.com/ManojGowda89) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+
+<div style="float: left; margin-right: 10px;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184" width="100" style="border-radius: 50%;">
+</div>
 
 ## Hi there 👋
 
@@ -84,9 +88,14 @@ AMC Engineering College, Bangalore, 2024
 ---
 
 ### 🛠 Skills
-- **Programming Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React.js, Node.js
-- **Libraries:** Express.js, Mongoose
-- **Tools:** GitHub, Firebase, Render, NPM
+| Technology      | Icon                        |
+|------------------|-----------------------------|
+| HTML             | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| CSS              | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| JavaScript       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| React            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| Node.js          | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
+| Express          | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| MongoDB          | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 Feel free to explore my repositories and contribute if you find something interesting!
