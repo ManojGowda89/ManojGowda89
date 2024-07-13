@@ -31,11 +31,6 @@ Passionate about problem-solving, I continuously seek to expand my knowledge and
 - Web application architecture
 - Coding best practices
 
-### 📫 How to reach me:
-- Email: [manojgowda8951@gmail.com](mailto:manojgowda8951@gmail.com) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://manojgowda.onrender.com/linkdin)
----
-
 ### 👨‍💻 Experience
 #### **Full Stack Developer (MERN Stack)**
 **Transfi-Present**  
