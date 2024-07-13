@@ -1,6 +1,6 @@
 ## [GitHub Repositories](https://github.com/ManojGowda89)
-<div style="float: left; margin-right: 10px;">
-  <img src="https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184" width="200" style="border-radius: 50%;">
+<div style="float: left; margin-right: 10px; border-radius: 50%;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184" width="200">
 </div>
 
 ## Hi there 👋
@@ -10,7 +10,7 @@ I'm **Manoj Gowda B R**, a passionate Full Stack Developer specializing in the *
 ### About Me
 I am an enthusiastic and dedicated software developer with a degree in Computer Science and Engineering from AMCEC. Currently, I am working as a software developer at Transfi, where I have honed my skills in the MERN stack and JavaScript. I specialize in building robust web applications that solve real-world problems, utilizing MongoDB, Express.js, React, and Node.js. I am the developer of the **mb64 series** of npm packages, including the widely recognized **mb64sql-connect** package.
 
-I have integrated complex APIs and ensured seamless user experiences, demonstrating my ability to adapt and excel in different aspects of web development. Passionate about problem-solving, I continuously seek to expand my knowledge and stay updated with the latest industry trends and technologies. As a collaborative and communicative team player, I thrive in team environments and contribute positively to group efforts. Feel free to reach out if you'd like to connect, collaborate, or discuss potential opportunities.
+Passionate about problem-solving, I continuously seek to expand my knowledge and stay updated with the latest industry trends and technologies. As a collaborative and communicative team player, I thrive in team environments and contribute positively to group efforts. Feel free to reach out if you'd like to connect, collaborate, or discuss potential opportunities.
 
 ### 🌱 I’m currently learning:
 - Advanced React and Next js features
