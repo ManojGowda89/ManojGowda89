@@ -1,16 +1,89 @@
 ## Hi there 👋
 
-<!--
-**ManojGowda89/ManojGowda89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Manoj Gowda B R**, a passionate Full Stack Developer specializing in the **MERN stack**. I love building dynamic web applications and exploring new technologies. 
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning:
+- Advanced React features
+- TypeScript
+- Cloud services and deployment strategies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- A Chrome extension for disposable emails
+- A random address generator using the RandomUser API
+
+### 👯 I’m looking to collaborate on:
+- Open-source projects
+- Web development initiatives
+- Any interesting tech ideas!
+
+### 💬 Ask me about:
+- MERN stack development
+- Web application architecture
+- Coding best practices
+
+### 📫 How to reach me:
+- Email: [manojgowda8951@gmail.com](mailto:manojgowda8951@gmail.com) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](#)
+
+### 😄 Pronouns: He/Him
+
+### ⚡ Fun fact:
+I love to learn new programming languages and technologies in my free time!
+
+---
+
+### 👨‍💻 Experience
+
+#### **Full Stack Developer (MERN Stack)**
+**CompSoft Technologies - Intern**  
+August 2023 - November 2023, Bangalore
+- Utilized React.js to create reusable components, enhancing code maintainability.
+- Implemented authentication middleware in Node.js for secure applications.
+
+#### **Full Stack Developer - Intern**
+**Delbo Digital Pvt Ltd**  
+April 2023 - July 2023, Bangalore
+- Managed component state effectively using React's `useState` hook.
+- Handled side effects and data fetching with `useEffect`.
+
+---
+
+### 🌍 Projects
+
+#### **Car Dealership Website**
+**Technologies:** React.js, Node.js, Express, Mongoose, Context API
+- Developed a full-stack application with Node serving a REST API and React as the frontend.
+
+#### **Weather App**
+**Technologies:** Open Weather API, React.js
+- Created a web application displaying comprehensive weather parameters.
+
+#### **URL Shortener**
+**Technologies:** Node.js, Express, MongoDB, Pug.js
+- Built a URL shortener with custom aliasing and analytics.
+
+#### **Online Doctor Appointment (Skylabs)**
+**Technologies:** HTML, CSS, JavaScript, PHP
+- Developed an application for booking doctors and medicines online.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering**  
+AMC Engineering College, Bangalore, 2024  
+**CGPA:** 7.9
+
+---
+
+### 🛠 Skills
+- **Programming Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React.js, Node.js
+- **Libraries:** Express.js, Mongoose
+- **Tools:** GitHub, Firebase, Render, NPM
+
+![Profile Photo](your-profile-photo-url)
+
+---
+
+Feel free to explore my repositories and contribute if you find something interesting!
