@@ -13,13 +13,13 @@ I am an enthusiastic and dedicated software developer with a degree in Computer 
 I have integrated complex APIs and ensured seamless user experiences, demonstrating my ability to adapt and excel in different aspects of web development. Passionate about problem-solving, I continuously seek to expand my knowledge and stay updated with the latest industry trends and technologies. As a collaborative and communicative team player, I thrive in team environments and contribute positively to group efforts. Feel free to reach out if you'd like to connect, collaborate, or discuss potential opportunities.
 
 ### 🌱 I’m currently learning:
-- Advanced React features
+- Advanced React and Next js features
 - TypeScript
 - Cloud services and deployment strategies
 
-### 🔭 I’m currently working on:
-- A Chrome extension for disposable emails
-- A random address generator using the RandomUser API
+### 🔭 My Interests:
+- Building Chrome extensions
+- Building NPM Packages
 
 ### 👯 I’m looking to collaborate on:
 - Open-source projects
@@ -33,16 +33,12 @@ I have integrated complex APIs and ensured seamless user experiences, demonstrat
 
 ### 📫 How to reach me:
 - Email: [manojgowda8951@gmail.com](mailto:manojgowda8951@gmail.com) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
-
-### 😄 Pronouns: He/Him
-
-### ⚡ Fun fact:
-I love to learn new programming languages and technologies in my free time!
-
+- LinkedIn: [Your LinkedIn Profile](https://manojgowda.onrender.com/linkdin)
 ---
 
 ### 👨‍💻 Experience
+#### **Full Stack Developer (MERN Stack)**
+**Transfi-Present**  
 
 #### **Full Stack Developer (MERN Stack)**
 **CompSoft Technologies - Intern**  
