@@ -1,4 +1,4 @@
-## ![Profile Photo]("https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184" | width=100)
+## ![Profile Photo](https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184 | width=100)
 
 <style>
   img {
