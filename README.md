@@ -1,11 +1,11 @@
 ## [GitHub Repositories](https://github.com/ManojGowda89)
-<div style="float: left; margin-right: 10px; border-radius: 50%;">
-  <img src="https://firebasestorage.googleapis.com/v0/b/projects-4f71b.appspot.com/o/WhatsApp%20Image%202024-07-13%20at%208.12.26%20PM.jpeg?alt=media&token=99d6ce1c-8728-4ac7-9e1d-765c6afb6184" width="200">
-</div>
-### 📫 How to reach me: - Email: [manojgowda8951@gmail.com](mailto:manojgowda8951@gmail.com) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
+
+### 📫 How to reach me:
+- Email: [manojgowda8951@gmail.com](mailto:manojgowda8951@gmail.com) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
+
 ## Hi there 👋
 
-I'm **Manoj Gowda B R**, a passionate Full Stack Developer specializing in the **MERN stack**. I love building dynamic web applications and exploring new technologies. 
+I'm **Manoj Gowda B R**, a passionate Full Stack Developer specializing in the **MERN stack**. I love building dynamic web applications and exploring new technologies.
 
 ### About Me
 I am an enthusiastic and dedicated software developer with a degree in Computer Science and Engineering from AMCEC. Currently, I am working as a software developer at Transfi, where I have honed my skills in the MERN stack and JavaScript. I specialize in building robust web applications that solve real-world problems, utilizing MongoDB, Express.js, React, and Node.js. I am the developer of the **mb64 series** of npm packages, including the widely recognized **mb64sql-connect** package.
@@ -13,7 +13,7 @@ I am an enthusiastic and dedicated software developer with a degree in Computer 
 Passionate about problem-solving, I continuously seek to expand my knowledge and stay updated with the latest industry trends and technologies. As a collaborative and communicative team player, I thrive in team environments and contribute positively to group efforts. Feel free to reach out if you'd like to connect, collaborate, or discuss potential opportunities.
 
 ### 🌱 I’m currently learning:
-- Advanced React and Next js features
+- Advanced React and Next.js features
 - TypeScript
 - Cloud services and deployment strategies
 
@@ -33,7 +33,7 @@ Passionate about problem-solving, I continuously seek to expand my knowledge and
 
 ### 👨‍💻 Experience
 #### **Full Stack Developer (MERN Stack)**
-**Transfi-Present**  
+**Transfi** - Present  
 
 #### **Full Stack Developer (MERN Stack)**
 **CompSoft Technologies - Intern**  
@@ -79,13 +79,13 @@ AMC Engineering College, Bangalore, 2024
 
 ### 🛠 Skills
 | Technology      | Icon                        |
-|------------------|-----------------------------|
-| HTML             | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| CSS              | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| JavaScript       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| React            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| Node.js          | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| Express          | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-| MongoDB          | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+|-----------------|-----------------------------|
+| HTML            | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| CSS             | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| JavaScript      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| React           | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| Node.js         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
+| Express         | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| MongoDB         | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 Feel free to explore my repositories and contribute if you find something interesting!
