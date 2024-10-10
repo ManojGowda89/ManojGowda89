@@ -30,27 +30,6 @@ Passionate about problem-solving, I continuously seek to expand my knowledge and
 - MERN stack development
 - Web application architecture
 - Coding best practices
-
-### 👨‍💻 Experience
-#### **Full Stack Developer (MERN Stack)**
-**Transfi** - Present  
-- Worked on various projects including the development of a VPN detector, ensuring secure and reliable network connections for company operations.
-- Led the product development of multiple web applications, enhancing functionality and user experience.
-
-#### **Full Stack Developer (MERN Stack)**
-**CompSoft Technologies - Intern**  
-August 2023 - November 2023, Bangalore
-- Utilized React.js to create reusable components, enhancing code maintainability.
-- Implemented authentication middleware in Node.js for secure applications.
-
-#### **Full Stack Developer - Intern**
-**Delbo Digital Pvt Ltd**  
-April 2023 - July 2023, Bangalore
-- Managed component state effectively using React's `useState` hook.
-- Handled side effects and data fetching with `useEffect`.
-
----
-
 ### 🌍 Projects
 
 #### **Car Dealership Website**
