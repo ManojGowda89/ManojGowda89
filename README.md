@@ -1,7 +1,7 @@
 ## [GitHub Repositories](https://github.com/ManojGowda89)
 
 ### 📫 How to reach me:
-- Email: [manojgowda8951@gmail.com](mailto:manojgowda8951@gmail.com) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
+- Email: [mail@manojgowda.in](mailto:mail@manojgowda.in) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
 
 ## Hi there 👋
 
