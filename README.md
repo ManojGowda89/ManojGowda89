@@ -150,12 +150,6 @@ npm i @manoj2002/cobit
 </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojGowda89&show_icons=true&theme=radical" alt="Manoj's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojGowda89&theme=radical" alt="Manoj's GitHub Streak" />
-</div>
 
 ## 🎓 Education
 
