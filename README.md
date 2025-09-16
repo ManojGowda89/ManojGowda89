@@ -1,4 +1,4 @@
-## [GitHub Repositories](https://github.com/ManojGowda89)
+[## [GitHub Repositories](https://github.com/ManojGowda89)
 
 ### 📫 How to reach me:
 - Email: [mail@manojgowda.in](mailto:mail@manojgowda.in) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
@@ -79,3 +79,4 @@ AMC Engineering College, Bangalore, 2024
 | MongoDB         | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 Feel free to explore my repositories and contribute if you find something interesting!
+](https://github.com/ManojGowda89/ManojGowda89.git)
