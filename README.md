@@ -1,82 +1,174 @@
-[## [GitHub Repositories](https://github.com/ManojGowda89)
+# 👋 Hello, I'm Manoj Gowda!
 
-### 📫 How to reach me:
-- Email: [mail@manojgowda.in](mailto:mail@manojgowda.in) | [manojgowdabr89@gmail.com](mailto:manojgowdabr89@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;DevOps+Engineer;IoT+Enthusiast;FinTech+Developer" alt="Typing SVG" />
+</div>
 
-## Hi there 👋
+<p align="center">
+  <a href="https://www.manojgowda.in"><img src="https://img.shields.io/badge/Website-manojgowda.in-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/manojgowdabr89"><img src="https://img.shields.io/badge/LinkedIn-manojgowdabr89-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:mail@manojgowda.in"><img src="https://img.shields.io/badge/Email-mail@manojgowda.in-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-I'm **Manoj Gowda B R**, a passionate Full Stack Developer specializing in the **MERN stack**. I love building dynamic web applications and exploring new technologies.
+## 🚀 About Me
 
-### About Me
-I am an enthusiastic and dedicated software developer with a degree in Computer Science and Engineering from AMCEC. Currently, I am working as a software developer at Transfi, where I have honed my skills in the MERN stack and JavaScript. I specialize in building robust web applications that solve real-world problems, utilizing MongoDB, Express.js, React, and Node.js. I am the developer of the **mb64 series** of npm packages, including the widely recognized **mb64sql-connect** package.
+Software Engineer specializing in MERN stack and DevOps with experience in building scalable IoT, fintech, and cloud solutions. Passionate about creating efficient, user-friendly applications and leveraging modern technologies to solve real-world problems.
 
-Passionate about problem-solving, I continuously seek to expand my knowledge and stay updated with the latest industry trends and technologies. As a collaborative and communicative team player, I thrive in team environments and contribute positively to group efforts. Feel free to reach out if you'd like to connect, collaborate, or discuss potential opportunities.
+- 🔭 Currently working at **Skoegle IOT Innovations** developing scalable IoT solutions
+- 🌱 Building products that handle real-time data from thousands of devices
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Docker, AWS**
+- 📫 Reach me at: **mail@manojgowda.in**
 
-### 🌱 I’m currently learning:
-- Advanced React and Next.js features
-- TypeScript
-- Cloud services and deployment strategies
+## 🛠️ Skills
 
-### 🔭 My Interests:
-- Building Chrome extensions
-- Building NPM Packages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-### 👯 I’m looking to collaborate on:
-- Open-source projects
-- Web development initiatives
-- Any interesting tech ideas!
+## 💼 Experience
 
-### 💬 Ask me about:
-- MERN stack development
-- Web application architecture
-- Coding best practices
-### 🌍 Projects
+### Skoegle IOT Innovations Pvt Ltd
+**Software Engineer** | *January 2025 - Present*
+- Developed secure APIs for IoT hardware devices handling real-time data
+- Architected Event-Driven Dynamic MQTT Delivery (EDDMD) for instant updates
+- Designed scalable systems handling 100,000+ devices per instance daily
+- Deployed solutions on AWS using Docker and GitHub Actions CI/CD
 
-#### **Car Dealership Website**
-**Technologies:** React.js, Node.js, Express, Mongoose, Context API
-- Developed a full-stack application with Node serving a REST API and React as the frontend.
-- Implemented features for listing, searching, and filtering cars.
+### Trans-Fi India Pvt Ltd
+**Software Engineer Intern** | *June 2024 - December 2024*
+- Built automated crypto price fetching system from multiple platforms
+- Designed REST APIs for secure trading operations
+- Engineered monitoring systems for payment method optimization
 
-#### **Weather App**
-**Technologies:** Open Weather API, React.js
-- Created a web application displaying comprehensive weather parameters.
-- Implemented real-time weather updates and location-based data fetching.
+## 📦 NPM Packages
 
-#### **URL Shortener**
-**Technologies:** Node.js, Express, MongoDB, Pug.js
-- Built a URL shortener with custom aliasing and analytics.
-- Included features for tracking URL usage statistics.
+<p align="center">
+  <a href="https://www.npmjs.com/package/mbqueue">
+    <img src="https://img.shields.io/npm/v/mbqueue?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=CB3837" alt="mbqueue" />
+  </a>
+  <a href="https://www.npmjs.com/package/@manoj2002/cobit">
+    <img src="https://img.shields.io/npm/v/@manoj2002/cobit?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=CB3837" alt="@manoj2002/cobit" />
+  </a>
+</p>
 
-#### **VPN Detector**
-**Technologies:** Python, Flask, MongoDB
-- Developed a VPN detection tool to ensure secure and compliant network access.
-- Implemented IP tracking and VPN usage analytics.
+### mbqueue
+A lightweight and efficient message queue system for Node.js applications. Simplifies async tasks and background processing.
 
-#### **Online Doctor Appointment (Skylabs)**
-**Technologies:** HTML, CSS, JavaScript, PHP
-- Developed an application for booking doctors and medicines online.
-- Integrated payment gateways and real-time appointment scheduling.
+```bash
+npm i mbqueue
+```
+
+### cobit
+A powerful CLI tool and web app for storing, organizing, and reusing code snippets across projects.
+
+```bash
+npm i @manoj2002/cobit
+```
+
+## 🏆 Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">walletExpress</h3>
+      <div align="center">
+        <a href="https://walletexpress.manojgowda.in" target="_blank">
+          <img src="https://dummyimage.com/600x400/000/fff&text=walletExpress" width="400" alt="walletExpress Project"/>
+        </a>
+        <p>
+          <a href="https://walletexpress.manojgowda.in" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p><strong>Web App for generating random crypto wallet addresses</strong> - Lightweight tool that generates dummy wallet addresses for more than 10 cryptocurrencies, tailored for Web3 developers and testers.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Cobit</h3>
+      <div align="center">
+        <a href="https://cobit.manojgowda.in" target="_blank">
+          <img src="https://dummyimage.com/600x400/000/fff&text=Cobit" width="400" alt="Cobit Project"/>
+        </a>
+        <p>
+          <a href="https://cobit.manojgowda.in" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p><strong>Code snippet manager with dual interfaces</strong> - Platform for storing, organizing and reusing code snippets with both a web app and CLI tool, improving developer productivity.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SkoCloud</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://dummyimage.com/600x400/000/fff&text=SkoCloud" width="400" alt="SkoCloud Project"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Android-App-green?style=for-the-badge&logo=android" alt="Android App"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Web-App-blue?style=for-the-badge&logo=react" alt="Web App"/>
+          </a>
+        </p>
+        <p><strong>Personal cloud storage solution</strong> - Google Drive alternative to securely store, download, and retrieve files including photos, videos, and documents across Android and web platforms.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">VMarg</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://dummyimage.com/600x400/000/fff&text=VMarg" width="400" alt="VMarg Project"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/IoT-Platform-orange?style=for-the-badge&logo=iot" alt="IoT Platform"/>
+          </a>
+        </p>
+        <p><strong>B2B IoT product deployed on AWS</strong> - Comprehensive IoT solution with real-time data visualization and logging, supporting 100,000+ devices per instance with Docker-based deployment.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+## 🎓 Education
+
+**B.E. in Computer Science and Engineering**  
+AMC Engineering College
+- Participated in inter-college project competitions
+- Developed innovative projects including KissanBazaar and Car Profile APIs
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/manojgowdabr89"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mail@manojgowda.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.manojgowda.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/ManojGowda89"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-### 🎓 Education
-
-**Bachelor of Engineering**  
-AMC Engineering College, Bangalore, 2024  
-**CGPA:** 7.9
-
----
-
-### 🛠 Skills
-| Technology      | Icon                        |
-|-----------------|-----------------------------|
-| HTML            | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| CSS             | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| JavaScript      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| React           | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| Node.js         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| Express         | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-| MongoDB         | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-
-Feel free to explore my repositories and contribute if you find something interesting!
-](https://github.com/ManojGowda89/ManojGowda89.git)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManojGowda89&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
